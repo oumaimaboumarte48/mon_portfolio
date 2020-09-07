@@ -85,7 +85,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`) VALUES
-(0, 'boumarteoumaima48@gmail.com', 'oumaima1997');
+(0, 'boumarteoumaima48@gmail.com', '');
 
 --
 -- Indexes for dumped tables
